@@ -44,10 +44,6 @@ interface DetailedSpot {
     forecaster: { name: string };
     body: string;
   };
-  cameras?: Array<{
-    title: string;
-    stillUrl: string;
-  }>;
 }
 
 function formatString(str: string): string {
