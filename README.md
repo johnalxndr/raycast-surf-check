@@ -22,7 +22,8 @@ Surf Check is a Raycast extension that provides quick access to surf conditions 
 ### Setting Up
 
 1. Install the Surf Check extension in Raycast
-2. Set your preferred spot ID in the extension preferences (you can find this in the Surfline URL for your favorite spot)
+2. Set your preferred spot ID in the extension preferences
+3. example: https://www.surfline.com/surf-report/lower-trestles/${spotId} | spotId is the numbers at the end of the url
 
 ### Checking Surf Conditions
 
