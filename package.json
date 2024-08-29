@@ -3,7 +3,7 @@
   "name": "surf-check",
   "title": "Surf Check",
   "description": "Check nearby surf conditions",
-  "icon": "extension-icon.png",
+  "icon": "extension_icon.png",
   "author": "john_alexander",
   "license": "MIT",
   "categories": [
