@@ -14,8 +14,8 @@ Surf Check is a Raycast extension that provides quick access to surf conditions 
 
 ## Screenshots
 
-![List View](./assets/list-view.png)
-![Detailed View](./assets/detailed-view.png)
+![List View](./assets/list.png)
+![Detailed View](./assets/detailed.png)
 
 ## How to Use
 
