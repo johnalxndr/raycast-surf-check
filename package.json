@@ -1,11 +1,15 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "surf-check",
-  "title": "surf-check",
-  "description": "check nearby surf conditions",
+  "title": "Surf Check",
+  "description": "Check nearby surf conditions",
   "icon": "extension-icon.png",
   "author": "john_alexander",
   "license": "MIT",
+  "categories": [
+    "Web",
+    "Fun"
+  ],
   "commands": [
     {
       "name": "surf-check",
