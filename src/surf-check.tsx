@@ -125,7 +125,7 @@ export default function Command() {
             title={spot.name}
             subtitle={`${formatString(spot.rating.key)} (${formatSurfHeight(spot.waveHeight.min, spot.waveHeight.max)})`}
             accessories={[
-              { icon: Icon.Waveform, text: formatString(spot.waveHeight.humanRelation) },
+              { text: formatString(spot.waveHeight.humanRelation) },
               { icon: Icon.Wind, text: `${getWindDescription(spot.wind.speed)} ${spot.wind.speed}kts` },
               { icon: Icon.Temperature, text: `${spot.waterTemp.max}°F` },
             ]}
@@ -243,7 +243,7 @@ _Data provided by Surfline_
           <Detail.Metadata.Label
             title="Wave Height"
             text={formatSurfHeight(detailedSpot.forecast.waveHeight.min, detailedSpot.forecast.waveHeight.max)}
-            icon={Icon.Waveform}
+            // Removed the waveform icon here
           />
           <Detail.Metadata.Label
             title="Wind"
