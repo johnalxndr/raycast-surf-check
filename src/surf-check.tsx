@@ -1,4 +1,4 @@
-import { ActionPanel, Detail, List, Action, Icon, Color, useNavigation, Image } from "@raycast/api";
+import { ActionPanel, Detail, List, Action, Icon, Color, useNavigation } from "@raycast/api";
 import { useState, useEffect } from "react";
 import fetch from "node-fetch";
 import { getPreferenceValues } from "@raycast/api";
