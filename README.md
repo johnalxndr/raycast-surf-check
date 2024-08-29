@@ -2,15 +2,15 @@
 
 ## Overview
 
-Surf Check is a Raycast extension that provides quick access to surf conditions and forecasts for your favorite surf spots. Using data from Surfline, this extension allows you to check wave heights, wind conditions, water temperature, and more, all without leaving your Raycast interface.
+Surf Check is a Raycast extension that provides quick access to surf conditions and forecasts for your nearby surf spots. Using data from Surfline, this extension allows you to check wave heights, wind conditions, water temperature, and more.
 
 ## Features
 
-- View a list of nearby surf spots based on your preferred location
+- View a list of nearby surf spots based on your preferred location (spot ID)
 - See at-a-glance information including wave height, wind conditions, and water temperature
 - Detailed view for each spot with comprehensive surf data
 - Access to forecaster reports and swell information
-- Direct links to Surfline reports for each spot
+- Direct links and quick actions to open Surfline reports for each spot
 
 ## Screenshots
 
@@ -53,6 +53,4 @@ All surf data is provided by Surfline. This extension is not officially associat
 
 ## Feedback and Support
 
-If you encounter any issues or have suggestions for improvement, please file an issue on the GitHub repository or contact the extension author.
-
-Enjoy your surf sessions with up-to-date information at your fingertips!
+If you encounter any issues or have suggestions for improvement, please file an issue on the GitHub repo.
