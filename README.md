@@ -12,6 +12,11 @@ Surf Check is a Raycast extension that provides quick access to surf conditions 
 - Access to forecaster reports and swell information
 - Direct links to Surfline reports for each spot
 
+## Screenshots
+
+![List View](./assets/list-view.png)
+![Detailed View](./assets/detailed-view.png)
+
 ## How to Use
 
 ### Setting Up
